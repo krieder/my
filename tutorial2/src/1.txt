@@ -1,0 +1,5 @@
+1	Vasya	Konin
+2	Lox		Loxov
+3	Vadik	Petrov
+4	Djoni	Filipova
+5	Stricca	Kol
